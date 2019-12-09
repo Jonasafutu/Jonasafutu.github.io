@@ -9,5 +9,4 @@ Jonas is a Data Scientist, with a demonstrated history working in the Informatio
 
 Jonas seeks to help organizations enhance operations by deriving insights from their data and also improve product development/management by integrating data science practices into their product development/management lifecycle.
 
-Jonas loves movies, music, footall, basketball, poetry and good food.
-Etc, etc, etc
+Jonas loves movies, music, footall, basketball, poetry and good food. Sociable and like to meet new people from different cultures.
