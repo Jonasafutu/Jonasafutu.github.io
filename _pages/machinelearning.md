@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling Projects"
+permalink: /data-cleaning/
+title: "Data Cleaning Projects"
 author_profile: true
 header:
   image: "/images/fort point.png"
