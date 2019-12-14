@@ -4,6 +4,14 @@ main:
     url: /about/
   - title: "Data Wrangling Projects"
     url: /data-wrangling/
+  - title: "Data Cleaning Project"
+    url: /data-cleaning/
+  - title: "Data Visalization"
+    url: /data-visualization/
+  - title: "Data Analysis"
+    url: /data-analysis/
+  - title: "Machine Learning"
+    url: /machine-learning/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
